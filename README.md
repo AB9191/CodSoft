@@ -4,7 +4,8 @@
 
 ## Git
 ### Download source code and run the webserver
-- git clone https://github.com/Hemant-Makar/guard-me.git
+- git clone https://github.com/AB9191/CodSoft.git
+- 
 
 
 ### 
